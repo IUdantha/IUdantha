@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **ML Modal Training**
 
 - 📫 How to reach me **udanthaisuru@gmail.com**
+  
+- 🌍 About me **<a href="isuruudantha.com">isuruudantha.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
